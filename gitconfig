@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = daniel97hh@gmail.com
+	name = Daniel Herrera
